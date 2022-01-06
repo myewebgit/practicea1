@@ -1,0 +1,90 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+    
+}
+.col{
+    color:orange;
+}
+section{
+    display: flex;
+}
+.hw{
+    width: 50%;
+    padding:5%;
+}
+.hw img{
+    width: 65%;
+}
+.lb{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 600;
+    color:papayawhip;
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+.m3{
+    width:33%;
+    padding:2%;
+    background-color: plum;
+    border-radius: 20px;
+    display: flexbox;
+    margin: 40px 20px 20px 40px;
+    text-align: justify;
+}
+.m3 img{
+    width: 35%;
+}
+.rr{
+    width: 40%;
+    
+    
+}
+.rr img{
+    width:80%;
+    margin: 40px 10px 10px 40px;
+}
+.nn{
+    font-size: 30px;
+    text-align: left;
+    
+}
+.three{
+      text-align: justify;
+}
+.four{
+    text-align: justify;
+}
+.pp{
+    text-align: left;
+    width:60%;
+    margin: 40px 10px 10px 40px;    
+}
+.pp img{
+    width: 60%;
+}
+.ii{
+    font-size: 40px;
+}
+.ff{
+    text-align: left;
+    width:60%;
+    margin: 40px 10px 10px 40px;
+}
+.ff img{
+    width:100%;
+}
+.foot{
+    text-align: center;
+    font-style: italic;
+    background-color: black;
+    font-size: 30px;
+    color:wheat;
